@@ -8,7 +8,7 @@ export default function Hero() {
         making development infinitely easier
         jsx = return hmlt or javascript interactive html */
         <div className="min-h-screen flex flex-col gap-10 items-center
-        justify-center text-center max-w-[800px] w-full mx-auto">
+        justify-center text-center max-w-[800px] w-full mx-auto p-4">
             <div className="flex flex-col gap-4">
                 <p>IT'S TIME TO GET</p>
                 <h1 className="uppercase font-semibold text-4xl sm:text-5xl
