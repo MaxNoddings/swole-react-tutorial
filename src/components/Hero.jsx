@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react' 
 
 // a component is simply just a function that has the same name as the file in our component folder!
 export default function Hero() {
@@ -23,3 +23,7 @@ export default function Hero() {
         </div>
     )
 }
+
+
+// Going to pick back up on this project and try and make a ski setting program very soon!!
+// Excited to get back into it.
